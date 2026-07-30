@@ -4,6 +4,8 @@ Dashboard em Power BI para acompanhamento do funil de vendas exportado do **Bitr
 
 ![Visão Executiva do Funil de Vendas](assets/dashboard-funil-vendas.png)
 
+🔗 [Relatório publicado no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGVmZTY2ZjQtMDA2Ny00MjdiLTlhYmEtZTliNzNmNzE2YjE0IiwidCI6ImNmZGQ2YTU0LTE2ZDgtNGQyYS1iMzA5LTdiMWNiMDk0YzI0MyJ9)
+
 ## Contexto
 
 O modelo consome o export de negociações (*deals*) do Bitrix24 e reconstrói o funil comercial: quantas oportunidades foram criadas, em qual estágio cada uma está, e o resultado final (ganho, perdido ou em andamento), segmentado por vendedor e por período.
